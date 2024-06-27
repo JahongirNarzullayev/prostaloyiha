@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+body{
+    display: flex;
+    align-items: center;
+    background-color: #fff;
+}
+ul{
+    align-items: center;
+    background-color: aqua;
+}
